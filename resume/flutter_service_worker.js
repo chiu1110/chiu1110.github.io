@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "dbcc1e633e5b9f6bb5b2be531efe7383",
+  "assets/AssetManifest.json": "f0cebf0338a2cceef5f3fc93e01ffe8c",
 "assets/assets/backgrounds/booking_system_background.jpeg": "e12e8c02cea292f99f8bbfd36502387f",
 "assets/assets/backgrounds/digital_signature_background.jpg": "21584320aad732d01611543a598804ac",
 "assets/assets/backgrounds/emar_background.png": "647cffd90fb955a44ef941dcf55df6c6",
@@ -12,6 +12,7 @@ const RESOURCES = {
 "assets/assets/backgrounds/medication_order_entry_background.webp": "6bdf00ef086e69063df4d1d2a56ae0de",
 "assets/assets/backgrounds/pharmacy_management_system_background.png": "6abb9b41a1f3dc093ee5e14a5d07426a",
 "assets/assets/backgrounds/prescription.jpg": "cab27acb72b8f1bbce18c00b51b64b70",
+"assets/assets/cfg/app_settings.json": "26a7d9fd22131b4c695ce32ad9f728fd",
 "assets/assets/icons/logo.png": "d6a6968f9fb55900a1b8dba90de73f03",
 "assets/assets/images/cityu_logo.png": "26ff992bd27492da2004867a8bfb6118",
 "assets/assets/images/hku_logo.png": "321ed67e9da0620187e560031eb45b26",
@@ -29,7 +30,7 @@ const RESOURCES = {
 "assets/assets/RiveAssets/shapes.riv": "8839d67714d5e9c52b3e0dbb2b1e89c1",
 "assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
-"assets/NOTICES": "14f6b100b53e7df200b6f8ecc9f385f3",
+"assets/NOTICES": "b63bc519191b4fb5785407f74190f810",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "b00363533ebe0bfdb95f3694d7647f6d",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "0a94bab8e306520dc6ae14c2573972ad",
@@ -39,14 +40,13 @@ const RESOURCES = {
 "canvaskit/profiling/canvaskit.js": "c21852696bc1cc82e8894d851c01921a",
 "canvaskit/profiling/canvaskit.wasm": "371bc4e204443b0d5e774d64a046eb99",
 "favicon.png": "2f20093b0b5d2db2d503c5057bf1c2fe",
-"flutter.js": "1cfe996e845b3a8a33f57607e8b09ee4",
 "icons/Icon-192.png": "f9502f8c5b1d08fc34d63713fbe56bd7",
 "icons/Icon-512.png": "719d7db84b2b6d4f0502892b276cbd57",
 "icons/Icon-maskable-192.png": "f9502f8c5b1d08fc34d63713fbe56bd7",
 "icons/Icon-maskable-512.png": "719d7db84b2b6d4f0502892b276cbd57",
-"index.html": "48604e21dd65c959e31010d480bf9166",
-"/": "48604e21dd65c959e31010d480bf9166",
-"main.dart.js": "e604e096b2bbf621fe004b780dfdf130",
+"index.html": "48ce42077a2bf77badf8782743d2c270",
+"/": "48ce42077a2bf77badf8782743d2c270",
+"main.dart.js": "79b7196629675d6737058865d1fff2e1",
 "manifest.json": "4d6259cee0d7b04dc6c7db87b0b774c1",
 "version.json": "c624165c5844f1927baed24adbf2ec04"
 };
