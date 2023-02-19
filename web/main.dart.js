@@ -47613,7 +47613,9 @@ j=t.ob
 e=A.b_q(e,J.fb($.lE.dw(),new A.axv(),k).e3(0),new A.axw(i),!1,!1,j)
 d=A.ae(h,A.aC("Departments: ",h,h,h,h,p.aQ(B.k),B.eh,h),B.h,d,h,h,h,h,h,h,h,h,h)
 p=A.aC("Department",h,h,h,h,h,h,h)
-o.push(A.aJj(new A.b1(B.aw,A.mA(A.cn(A.b([n,e,d,A.b_r(q,J.fb($.i4.dw(),new A.axx(),k).e3(0),B.li,new A.axy(i),"Select departments",!0,p,j),A.BH(m,A.bo(B.IQ,B.k,h),h,new A.axz(i),40,"Confirm")],l),B.cq,B.r,B.u,B.I),h,B.z,h,h,B.O),h),h,h,h,h,h))}f=f.a.a<=800?1:2
+o.push(A.aJj(new A.b1(B.aw,A.mA(A.cn(A.b([n,e,d,A.b_r(q,J.fb($.i4.dw(),new A.axx(),k).e3(0),B.li,new A.axy(i),"Select departments",!0,p,j),A.BH(m,A.bo(B.IQ,B.k,h),h,new A.axz(i),40,"Confirm")],l),B.cq,B.r,B.u,B.I),h,B.z,h,h,B.O),h),h,h,h,h,h))}f=f.a.a
+if(f<=800)f=1
+else f=f<=1200?2:3
 o.push(A.cA(A.aMS(f,4,new A.axA(g,i,a),r.length,4),1))
 return A.cn(o,B.t,B.r,B.u,B.I)},
 a1x(a,b){var s=this,r=null,q=s.f
