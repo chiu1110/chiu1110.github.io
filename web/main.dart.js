@@ -46188,86 +46188,86 @@ r.ch=s.ch
 r.CW=s.CW
 r.cy=s.cy
 this.w=r},
-a0Y(a,b,c){var s,r,q,p,o,n,m,l,k,j=this,i=null,h=A.aK("fields"),g=A.aK("title"),f=A.aK("icon")
-switch(a){case 0:g.b="Location Info"
-f.b=B.kr
+a0Y(a,b,c){var s,r,q,p,o,n,m,l,k=this,j=null,i=A.aK("fields"),h=A.aK("title"),g=A.aK("icon")
+switch(a){case 0:h.b="Location Info"
+g.b=B.kr
 s=$.u9()
 r=A.bi(s).h("ac<1,ew<jo>>")
 r=A.S(new A.ac(s,new A.avL(b),r),!0,r.h("aE.E"))
 s=b.p3.at
-q=A.at("Select building",i,i,i,i,s,i,i)
-p=j.w
+q=A.at("Select building",j,j,j,j,s,j,j)
+p=k.w
 p===$&&A.a()
 o=t.p
-p=A.bD(A.b([A.cR(A.NG(q,r,new A.avM(j),i,p.ax,t.i6),1),A.cD(i,i,A.aB(B.hn,i,i),i,i,new A.avN(j),i,i)],o),B.q,B.p,B.r)
-if(j.w.ax==null)r=J.BG(0,t.xW)
-else{r=j.a.c.ax.c
+p=A.bD(A.b([A.cR(A.NG(q,r,new A.avM(k),j,p.ax,t.i6),1),A.cD(j,j,A.aB(B.hn,j,j),j,j,new A.avN(k),j,j)],o),B.q,B.p,B.r)
+if(k.w.ax==null)r=J.BG(0,t.xW)
+else{r=k.a.c.ax.c
 r===$&&A.a()
 q=A.W(r).h("ac<1,ew<iD>>")
 q=A.S(new A.ac(r,new A.avY(b),q),!0,q.h("aE.E"))
-r=q}h.b=A.b([p,A.bD(A.b([A.cR(A.NG(A.at("Select floor",i,i,i,i,s,i,i),r,new A.avZ(j),i,j.w.ay,t.vM),1),A.cD(i,i,A.aB(B.hn,i,i),i,i,new A.aw_(j),i,i)],o),B.q,B.p,B.r)],o)
+r=q}i.b=A.b([p,A.bD(A.b([A.cR(A.NG(A.at("Select floor",j,j,j,j,s,j,j),r,new A.avZ(k),j,k.w.ay,t.vM),1),A.cD(j,j,A.aB(B.hn,j,j),j,j,new A.aw_(k),j,j)],o),B.q,B.p,B.r)],o)
 break
-case 1:g.b="Hardware Info"
-f.b=B.rc
-s=j.w
+case 1:h.b="Hardware Info"
+g.b=B.rc
+s=k.w
 s===$&&A.a()
 s=s.r
-s=A.j5(!1,i,i,i,2,A.eJ(i,new A.dr(4,B.b0,B.bs),i,i,i,i,i,i,!0,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,!1,i,i,i,"Brand",i,i,i,i,i,i,i,i,i,i,i,i,i),i,s,i,i,1,i,new A.aw0(j),i,i,i,i,!1,i,B.aj,i,i)
-r=j.w.w
-r=A.j5(!1,i,i,i,2,A.eJ(i,new A.dr(4,B.b0,B.bs),i,i,i,i,i,i,!0,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,!1,i,i,i,"Model",i,i,i,i,i,i,i,i,i,i,i,i,i),i,r,i,i,1,i,new A.aw1(j),i,i,i,i,!1,i,B.aj,i,i)
-q=j.w.x
-q=A.j5(!1,i,i,i,2,A.eJ(i,new A.dr(4,B.b0,B.bs),i,i,i,i,i,i,!0,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,!1,i,i,i,"CPU",i,i,i,i,i,i,i,i,i,i,i,i,i),i,q,i,i,1,i,new A.aw2(j),i,i,i,i,!1,i,B.aj,i,i)
+s=A.j5(!1,j,j,j,2,A.eJ(j,new A.dr(4,B.b0,B.bs),j,j,j,j,j,j,!0,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,!1,j,j,j,"Brand",j,j,j,j,j,j,j,j,j,j,j,j,j),j,s,j,j,1,j,new A.aw0(k),j,j,j,j,!1,j,B.aj,j,j)
+r=k.w.w
+r=A.j5(!1,j,j,j,2,A.eJ(j,new A.dr(4,B.b0,B.bs),j,j,j,j,j,j,!0,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,!1,j,j,j,"Model",j,j,j,j,j,j,j,j,j,j,j,j,j),j,r,j,j,1,j,new A.aw1(k),j,j,j,j,!1,j,B.aj,j,j)
+q=k.w.x
+q=A.j5(!1,j,j,j,2,A.eJ(j,new A.dr(4,B.b0,B.bs),j,j,j,j,j,j,!0,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,!1,j,j,j,"CPU",j,j,j,j,j,j,j,j,j,j,j,j,j),j,q,j,j,1,j,new A.aw2(k),j,j,j,j,!1,j,B.aj,j,j)
 p=A.b([$.aL4()],t.VS)
-o=j.w.y
-o=o==null?i:B.f.k(o)
-p=A.j5(!1,i,i,i,2,A.eJ(i,new A.dr(4,B.b0,B.bs),i,i,i,i,i,i,!0,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,!1,i,i,i,"RAM(GB)",i,i,i,i,i,i,i,i,i,i,i,i,i),i,o,p,i,1,i,new A.aw3(j),i,i,i,i,!1,i,B.aj,i,i)
+o=k.w.y
+o=o==null?j:B.f.k(o)
+p=A.j5(!1,j,j,j,2,A.eJ(j,new A.dr(4,B.b0,B.bs),j,j,j,j,j,j,!0,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,!1,j,j,j,"RAM(GB)",j,j,j,j,j,j,j,j,j,j,j,j,j),j,o,p,j,1,j,new A.aw3(k),j,j,j,j,!1,j,B.aj,j,j)
 o=J.fa($.h2.dm(),new A.aw4(b),t.b7).dX(0)
-n=A.at("Select OS",i,i,i,i,b.p3.at,i,i)
-m=J.na($.h2.dm(),j.w.d)?j.w.d:i
+n=A.at("Select OS",j,j,j,j,b.p3.at,j,j)
+m=J.na($.h2.dm(),k.w.d)?k.w.d:j
 l=t.p
-h.b=A.b([s,r,q,p,A.bD(A.b([A.cR(A.NG(n,o,new A.avO(j),i,m,t.N),1),A.cD(i,i,A.aB(B.hn,i,i),i,i,new A.avP(j),i,i)],l),B.q,B.p,B.r)],l)
+i.b=A.b([s,r,q,p,A.bD(A.b([A.cR(A.NG(n,o,new A.avO(k),j,m,t.N),1),A.cD(j,j,A.aB(B.hn,j,j),j,j,new A.avP(k),j,j)],l),B.q,B.p,B.r)],l)
 break
-case 2:g.b="User Info"
-f.b=B.r7
+case 2:h.b="User Info"
+g.b=B.r7
 s=J.fa($.hr.dm(),new A.avQ(b),t.b7).dX(0)
 r=b.p3
-q=A.at("Select Department",i,i,i,i,r.at,i,i)
+q=A.at("Select Department",j,j,j,j,r.at,j,j)
 p=$.hr.dm()
-o=j.w
+o=k.w
 o===$&&A.a()
-p=J.na(p,o.z)?j.w.z:i
+p=J.na(p,o.z)?k.w.z:j
 o=t.p
-p=A.bD(A.b([A.cR(A.NG(q,s,new A.avR(j),i,p,t.N),1),A.cD(i,i,A.aB(B.hn,i,i),i,i,new A.avS(j),i,i)],o),B.q,B.p,B.r)
+p=A.bD(A.b([A.cR(A.NG(q,s,new A.avR(k),j,p,t.N),1),A.cD(j,j,A.aB(B.hn,j,j),j,j,new A.avS(k),j,j)],o),B.q,B.p,B.r)
 s=A.nk(new A.b5(5,5))
-q=j.w.cy
+q=k.w.cy
 q=A.b([q,!q],t.HZ)
-n=j.w.cy
+n=k.w.cy
 m=A.aB(B.J4,n?B.j:B.l,30)
 r=r.as
 r.toString
-m=A.bD(A.b([new A.ar(B.V,m,i),new A.ar(B.V,A.at("Assign",i,i,i,i,r.aZ(n?B.j:B.l),i,i),i)],o),B.q,B.p,B.r)
-n=!j.w.cy
+m=A.bD(A.b([new A.ar(B.V,m,j),new A.ar(B.V,A.at("Assign",j,j,j,j,r.aZ(n?B.j:B.l),j,j),j)],o),B.q,B.p,B.r)
+n=!k.w.cy
 l=A.aB(B.J3,n?B.j:B.l,30)
-s=A.ar_(s,A.b([m,A.bD(A.b([new A.ar(B.V,l,i),new A.ar(B.V,A.at("Lend",i,i,i,i,r.aZ(n?B.j:B.l),i,i),i)],o),B.q,B.p,B.r)],o),B.hP,B.f2,q,new A.avT(j),b.fx)
-r=j.w.Q
-r=A.j5(!1,i,i,i,2,A.eJ(i,new A.dr(4,B.b0,B.bs),i,i,i,i,i,i,!0,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,!1,i,i,i,"User Name",i,i,i,i,i,i,i,i,i,i,i,i,i),i,r,i,i,1,i,new A.avU(j),i,i,i,i,!1,i,B.aj,i,i)
+s=A.ar_(s,A.b([m,A.bD(A.b([new A.ar(B.V,l,j),new A.ar(B.V,A.at("Lend",j,j,j,j,r.aZ(n?B.j:B.l),j,j),j)],o),B.q,B.p,B.r)],o),B.hP,B.f2,q,new A.avT(k),b.fx)
+r=k.w.Q
+r=A.j5(!1,j,j,j,2,A.eJ(j,new A.dr(4,B.b0,B.bs),j,j,j,j,j,j,!0,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,!1,j,j,j,"User Name",j,j,j,j,j,j,j,j,j,j,j,j,j),j,r,j,j,1,j,new A.avU(k),j,j,j,j,!1,j,B.aj,j,j)
 q=$.aL4()
 m=t.VS
 l=A.b([q],m)
-k=j.w.as
-n=k==null?i:B.f.k(k)
-l=A.j5(!1,i,i,i,2,A.eJ(i,new A.dr(4,B.b0,B.bs),i,i,i,i,i,i,!0,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,!1,i,i,i,"Contact No.",i,i,i,i,i,i,i,i,i,i,i,i,i),i,n,l,i,1,i,new A.avV(j),i,i,i,i,!1,i,B.aj,i,i)
+n=k.w.as
+n=n==null?j:B.f.k(n)
+l=A.j5(!1,j,j,j,2,A.eJ(j,new A.dr(4,B.b0,B.bs),j,j,j,j,j,j,!0,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,!1,j,j,j,"Contact No.",j,j,j,j,j,j,j,j,j,j,j,j,j),j,n,l,j,1,j,new A.avV(k),j,j,j,j,!1,j,B.aj,j,j)
 m=A.b([q],m)
-if(j.w.at==null)q=i
+if(k.w.at==null)q=j
 else{q=A.a74("dd-MM-yyyy")
-n=j.w.at
+n=k.w.at
 n.toString
 n=q.lV(n)
-q=n}h.b=A.b([p,s,r,l,A.j5(!1,i,i,i,2,A.eJ(i,new A.dr(4,B.b0,B.bs),i,i,i,i,i,i,!0,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,i,!1,i,A.bD(A.b([new A.ar(B.V,A.aB(B.Jh,i,i),i),A.at("Deploy Date",i,i,i,i,i,i,i)],o),B.q,B.p,B.aH),i,i,i,i,i,i,i,i,i,i,i,i,i,i,i),i,q,m,i,1,B.aU,new A.avW(j),i,i,i,new A.avX(j),!0,i,B.aj,i,i)],o)
+q=n}i.b=A.b([p,s,r,l,A.j5(!1,j,j,j,2,A.eJ(j,new A.dr(4,B.b0,B.bs),j,j,j,j,j,j,!0,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,!1,j,A.bD(A.b([new A.ar(B.V,A.aB(B.Jh,j,j),j),A.at("Deploy Date",j,j,j,j,j,j,j)],o),B.q,B.p,B.aH),j,j,j,j,j,j,j,j,j,j,j,j,j,j,j),j,q,m,j,1,B.aU,new A.avW(k),j,j,j,new A.avX(k),!0,j,B.aj,j,j)],o)
 break
-default:j.x=new A.ar(B.V,A.aO9(),i)
-return}j.w===$&&A.a()
-j.x=new A.Aq(b,c,h.af(),g.af(),f.af(),i)},
+default:k.x=new A.ar(B.V,A.aO9(),j)
+return}k.w===$&&A.a()
+k.x=new A.Aq(b,c,i.af(),h.af(),g.af(),j)},
 C(a){var s,r,q,p,o,n,m,l,k,j=this,i=null
 A.RE(a,t.Tz)
 s=A.y(a)
