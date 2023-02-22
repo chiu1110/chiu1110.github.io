@@ -47062,8 +47062,9 @@ p=k.w
 p===$&&A.a()
 o=t.p
 p=A.bF(A.b([A.da(A.Om(q,r,new A.axD(k),j,p.ax,t.i6),1),A.cJ(j,j,A.aG(B.hp,j,j),j,j,new A.axE(k),j,j)],o),B.q,B.p,B.r)
-if(k.w.ax==null)r=J.r0(0,t.xW)
-else{r=k.a.c.ax.c
+r=k.w.ax
+if(r==null)r=J.r0(0,t.xW)
+else{r=r.c
 r===$&&A.a()
 q=A.W(r).h("a9<1,eA<iL>>")
 q=A.U(new A.a9(r,new A.axP(b),q),!0,q.h("ay.E"))
